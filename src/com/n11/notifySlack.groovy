@@ -1,5 +1,3 @@
-#!/usr/bin/env groovy
-
 /**
 * notify slack and set message based on build status
 */
